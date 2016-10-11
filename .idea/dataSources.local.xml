@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails sample_app: default" uuid="87f21829-1a6a-42f8-a235-05cccfd537e9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfdadfcbdfd9dfd9</user-password>
+    </data-source>
+    <data-source name="Rails sample_app: development" uuid="f7bae0d1-7b2a-4052-8c1c-2fb94da0c5ea">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>root</user-name>
+      <user-password>dfdadfcbdfd9dfd9</user-password>
+    </data-source>
+    <data-source name="Rails sample_app: production" uuid="5f3e9fc8-a2b4-49ba-b4b0-e2ebe398bad6">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>root</user-name>
+      <user-password>dfdadfcbdfd9dfd9</user-password>
+    </data-source>
+    <data-source name="Rails sample_app: test" uuid="ce2915ff-692a-4d26-a0c5-8ba0948b4b9a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfdadfcbdfd9dfd9</user-password>
+    </data-source>
+  </component>
+</project>

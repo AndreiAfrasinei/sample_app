@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
+# pagination
+gem 'will_paginate',           '3.1.0'
+gem 'bootstrap-will_paginate', '0.0.10'
 # bcrypt
 gem 'bcrypt', '3.1.11'
 #  bootstrap
@@ -39,6 +42,7 @@ group :test do
   gem 'minitest-reporters',       '1.1.9'
   gem 'guard',                    '2.13.0'
   gem 'guard-minitest',           '2.4.4'
+
 end
 
 group :development do
@@ -48,6 +52,7 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -58,3 +63,6 @@ gem 'mysql', '~> 2.9.1'
 gem 'mysql2' ,'~> 0.4.4'
 
 gem 'byebug', '~> 9.0', '>= 9.0.6'
+
+gem 'faker',          '1.6.6'
+
