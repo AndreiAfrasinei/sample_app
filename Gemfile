@@ -56,3 +56,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'activerecord-mysql-adapter', '~> 0.0.1'
 gem 'mysql', '~> 2.9.1'
 gem 'mysql2' ,'~> 0.4.4'
+
+gem 'byebug', '~> 9.0', '>= 9.0.6'
