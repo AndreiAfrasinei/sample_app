@@ -66,3 +66,7 @@ gem 'byebug', '~> 9.0', '>= 9.0.6'
 
 gem 'faker',          '1.6.6'
 
+gem 'carrierwave',             '0.11.2'
+gem 'mini_magick',             '4.5.1'
+gem 'fog',                     '1.38.0'
+
